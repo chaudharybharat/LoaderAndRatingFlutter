@@ -28,5 +28,4 @@ FlipLoader(
   shape: "circle",
   rotateIcon: false,
 ),
-```
-![Screenshots on Android and iOS](./screenshots/login_screen_1.png)
+
