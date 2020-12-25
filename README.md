@@ -29,4 +29,4 @@ FlipLoader(
   rotateIcon: false,
 ),
 
-![Screenshots on iOS](./screenshots/buttons1.png)
+
